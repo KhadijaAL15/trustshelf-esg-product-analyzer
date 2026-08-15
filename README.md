@@ -18,6 +18,12 @@ Watch the project demo on YouTube:
 
 [TrustShelf ESG Product Analyzer - Demo](https://youtu.be/WEThnozXDQk)
 
+*## Presentation
+
+View the final project presentation:
+
+[TrustShelf ESG Product Analyzer - Presentation](presentation/trustshelf-presentation.pdf)**
+
 ## Equal Authorship
 
 This repository is one of two independently owned portfolio copies of the same collaborative project.
