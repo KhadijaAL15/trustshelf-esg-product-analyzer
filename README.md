@@ -18,7 +18,7 @@ Watch the project demo on YouTube:
 
 [TrustShelf ESG Product Analyzer - Demo](https://youtu.be/WEThnozXDQk)
 
-*## Presentation
+## Presentation
 
 View the final project presentation:
 
