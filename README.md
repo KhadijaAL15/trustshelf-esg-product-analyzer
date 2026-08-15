@@ -22,7 +22,7 @@ Watch the project demo on YouTube:
 
 View the final project presentation:
 
-[TrustShelf ESG Product Analyzer - Presentation](presentation/trustshelf-presentation.pdf)**
+[TrustShelf ESG Product Analyzer - Presentation](presentation/trustshelf-presentation.pdf)
 
 ## Equal Authorship
 
