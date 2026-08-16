@@ -1,6 +1,6 @@
-# TrustShelf - ESG Product Analyzer
-
 ![TrustShelf – ESG Product Analyzer](assets/trustshelf-banner.png)
+
+# TrustShelf - ESG Product Analyzer
 
 TrustShelf is a Streamlit application that helps users evaluate consumer products through environmental, social, governance, and ethics signals.
 
