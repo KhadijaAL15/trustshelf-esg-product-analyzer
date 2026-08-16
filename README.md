@@ -1,5 +1,7 @@
 # TrustShelf - ESG Product Analyzer
 
+(assets/trustshelf_banner.png)
+
 TrustShelf is a Streamlit application that helps users evaluate consumer products through environmental, social, governance, and ethics signals.
 
 The app searches product data from Open Food Facts, Open Beauty Facts, and Open Products Facts, applies a transparent scoring model, and optionally enriches results with company-level evidence from WikiRate.
